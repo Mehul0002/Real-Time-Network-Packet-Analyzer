@@ -1,0 +1,15 @@
+Application Icon Placeholder
+
+To add an application icon:
+
+1. Create a PNG image file named 'icon.png' in this directory
+2. Recommended size: 256x256 pixels or 512x512 pixels
+3. The application will automatically load this icon if present
+
+You can find free icons at:
+- https://www.flaticon.com/
+- https://iconfinder.com/
+- https://www.iconarchive.com/
+
+Suggested icon: A network-related icon like a magnifying glass over network cables,
+or a shield with network symbols.
